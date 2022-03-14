@@ -4,7 +4,7 @@
 
 
 
-ensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
+TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
 
 
 
@@ -20,9 +20,9 @@ ensorFlow is a free and open-source software library for machine learning and ar
 - Train the model
 - Activate TensorBoard
 
-> model setup and training were
-> all run in Google Colab
-> ![colab logo](https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/s1600/colab.png)
+> Model setup and training were
+> all run in Google Colab.
+![colab logo](https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/s1600/colab.png)
 
 ## TendorBoard Metrics
 DirectionBoxes recall
